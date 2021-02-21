@@ -1,8 +1,8 @@
 # RocketWorld
 
-## RocketWorld wıth RecyclerView - Retrofit  
 Uygulama https://docs.spacexdata.com/ adresinde SpaceX’in yayınlamış olduğu public servisleri gerekli kütüphaneleri kullanarak roketleri listelemektedir.
 Listelenen roketlerden birine tıklandığında detaylı bilgi ekrana gelecektir.
+
 
 
 ## Kullanılan kütüphaneler
