@@ -40,5 +40,5 @@ class ViewHolderAllRockets(view: View) : RecyclerView.ViewHolder(view) {
     val rocketNameListItemTv : TextView = view.findViewById(R.id.rocketNameListItemTV)
     val rocketIdListItemTV  : TextView = view.findViewById(R.id.rocketIdListItemTV)
     val rocketTypeListItemTV  : TextView = view.findViewById(R.id.rocketTypeListItemTv)
-    
+
 }
