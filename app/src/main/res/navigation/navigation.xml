@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/allRocketsFragment">
+
+    <fragment
+        android:id="@+id/allRocketsFragment"
+        android:name="com.odukabdulbasit.rocketsworld.rocket_list.fragment.AllRocketsFragment"
+        android:label="fragment_all_rockets"
+        tools:layout="@layout/fragment_all_rockets" >
+        <action
+            android:id="@+id/action_allRocketsFragment_to_rocketDetailFragment"
+            app:destination="@id/rocketDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rocketDetailFragment"
+        android:name="com.odukabdulbasit.rocketsworld.rocket_detail.RocketDetailFragment"
+        android:label="fragment_rocket_detail"
+        tools:layout="@layout/fragment_rocket_detail" />
+</navigation>

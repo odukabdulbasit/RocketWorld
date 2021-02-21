@@ -1,0 +1,2 @@
+com/odukabdulbasit/rocketsworld/BuildConfig.java
+ com.odukabdulbasit.rocketsworld.BuildConfig
