@@ -1,15 +1,14 @@
 # RocketWorld
 
-Uygulama https://docs.spacexdata.com/ adresinde SpaceX’in yayınlamış olduğu public servisleri gerekli kütüphaneleri kullanarak roketleri listelemektedir.
-Listelenen roketlerden birine tıklandığında detaylı bilgi ekrana gelecektir.
+Uygulama Servis istekleri ile veri çekme işleme yapmaktadır.
 
 
 
-## Kullanılan kütüphaneler
+## Teknolojiler
 
-* [Glide](https://github.com/bumptech/glide) - İmageUrl'den image yüklemek için kullanıldı.
-* [Retrofit](https://square.github.io/retrofit/) - Apiden verileri çekmek için kullanıldı.
-* [Moshi](https://github.com/square/moshi) - Apiden çekilden verileri gerekli objelere dönüştürmek için Retrofit ile birlikte kullanıldı.
+* [Glide](https://github.com/bumptech/glide) 
+* [Retrofit](https://square.github.io/retrofit/)
+* [Moshi](https://github.com/square/moshi) 
 
 
 ![Test Image 1](https://github.com/odukabdulbasit/RocketWorld/blob/main/Screenshot/Screenshot1_20210221-235726_Rockets%20World.jpg)
